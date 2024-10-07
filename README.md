@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontsize=15&fontColor=FFFFFF)
 ### 🙋‍♀️ Introduce
-- 신입 백엔드 개발자 김양선입니다 🙂
+- 백엔드 개발자 김양선입니다 🙂
 
 ### 🤙 Contact
 - [Email](blueskyee52@gmail.com)
@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/php-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 
 ### 💻 Projects
+- Look At The Weather (룩앳더웨더) : 오늘의 옷차림 공유 커뮤니티
 - Cafe-On (카페온) : 비대면 카페 음료 주문 서비스
 - Steper (스텝퍼) : 나의 신발을 찾아서, 신발 판매 서비스
 
